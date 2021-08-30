@@ -1,4 +1,4 @@
-# SeleniumPython_BDD_Framework
+# Selenium Python BDD Framework
 Behave tutorial
 
 Setup
